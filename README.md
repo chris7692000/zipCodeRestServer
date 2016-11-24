@@ -8,5 +8,5 @@ The code has been tested on Glassfish 4 and Wildfly.
 
 To run this project on Apache Tomcat
 1.  Edit the pom.xml
-2.  Uncomment the dependancy on Jersey (The reference implementation of JAX-RS.  https://jersey.java.net )
+2.  Uncomment the dependency on Jersey (The reference implementation of JAX-RS.  https://jersey.java.net )
 
